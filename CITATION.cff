@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "bonsai nursery labeling round-trip built with Pixeltable"
+abstract: "Label round-trip for a bonsai nursery: export Pixeltable tables to CSV, JSONL, Parquet, COCO and PyTorch, let graders edit the labels elsewhere, re-import with lossless type checks, and diff or revert each batch by table version."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-bonsai-labels"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-25
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "data-labeling"
+  - "bonsai"
+  - "parquet"
+  - "data-versioning"
+  - "multimodal"
+  - "ai"
+  - "data-infrastructure"

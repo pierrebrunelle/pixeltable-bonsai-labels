@@ -1,0 +1,17 @@
+tag_id,species,style,age_years,height_cm,pot_size_in,health,grader
+1001,Juniper,broom,29,23.4,14,needs repot,Ben
+1002,Pine,literati,58,58.8,6,healthy,Aiko
+1003,Pine,cascade,46,74.0,8,root rot risk,Carmen
+1004,Azalea,formal upright,55,59.3,12,needs repot,Aiko
+1005,Olive,informal upright,18,38.1,10,needs repot,Ben
+1006,Ficus,formal upright,38,54.5,14,pest watch,Ben
+1007,Olive,broom,22,13.9,6,healthy,Aiko
+1008,Azalea,slanting,55,38.0,6,pest watch,Carmen
+1009,Juniper,formal upright,56,60.1,8,needs repot,Aiko
+1010,Azalea,formal upright,4,38.8,14,pest watch,Carmen
+1011,Juniper,formal upright,4,48.4,14,needs repot,Aiko
+1012,Pine,broom,26,48.2,12,needs repot,Aiko
+1013,Boxwood,literati,14,74.7,8,healthy,Carmen
+1014,Boxwood,cascade,35,38.2,14,needs repot,Ben
+1015,Azalea,literati,47,59.7,8,needs repot,Aiko
+1016,Olive,broom,14,38.6,14,pest watch,Ben

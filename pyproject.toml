@@ -1,0 +1,20 @@
+[project]
+name = "pixeltable-bonsai-labels"
+version = "0.1.0"
+description = "Label round-trip for a bonsai nursery: export Pixeltable tables to CSV, JSONL, Parquet, COCO and PyTorch, let graders edit the labels elsewhere, re-import with lossless type checks, and diff or revert each batch by table version - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "computed-columns", "data-infrastructure", "bonsai-labels"]
+dependencies = [
+    "pixeltable>=0.7.26",
+    "pillow",
+    "torch",
+    "torchvision",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"
